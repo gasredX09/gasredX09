@@ -1,4 +1,4 @@
-# Aryan Sharan Reddy Guda
+# Aryan Sharan Guda
 
 I'm a Master's student in Quantitative Biology and Bioinformatics at Carnegie Mellon,
 working on generative models for proteins.
