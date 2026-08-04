@@ -3,7 +3,7 @@
 I'm a Master's student in Quantitative Biology and Bioinformatics at Carnegie Mellon,
 working on generative models for proteins.
 
-Right now I'm a graduate researcher in the Chiu Lab at
+Right now I'm a graduate researcher in the [Chiu Lab](https://www.chiu-lab.org/) at
 [UPMC Hillman Cancer Center](https://hillman.upmc.com/), on multimodal
 representation learning that ties together
 Cell Painting morphology, drug structure, and protein sequence. Before CMU I did a double
