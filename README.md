@@ -3,11 +3,13 @@
 I'm a Master's student in Quantitative Biology and Bioinformatics at Carnegie Mellon,
 working on generative models for proteins.
 
-Right now I'm a graduate researcher in the [Chiu Lab](https://www.chiu-lab.org/) at
-[UPMC Hillman Cancer Center](https://hillman.upmc.com/), on multimodal
-representation learning that ties together
-Cell Painting morphology, drug structure, and protein sequence. Before CMU I did a double
-major in Biotechnology & Bioinformatics and Electrical Engineering at IIT Hyderabad.
+Since June 2026 I've been in [Prof. Lei Li's lab](https://leililab.github.io) at CMU,
+where I'm doing my thesis. Before that I was a graduate researcher in the
+[Chiu Lab](https://www.chiu-lab.org/) at
+[UPMC Hillman Cancer Center](https://hillman.upmc.com/), working on multimodal
+representation learning that ties together Cell Painting morphology, drug structure,
+and protein sequence. Before CMU I did a double major in Biotechnology &
+Bioinformatics and Electrical Engineering at IIT Hyderabad.
 
 **[gasredx09.github.io](https://gasredx09.github.io/)** &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/gasredx09/) &nbsp;·&nbsp;
